@@ -1,1 +1,1 @@
-// Iniciando o Projeto
+db.produtos.countDocuments({});
